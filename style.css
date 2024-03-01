@@ -100,10 +100,23 @@ h2{
     font-size: 16px;
     color: #666;
 }
-
+button {
+    padding: 10px 20px;
+    width: 10%;
+    background-color: #1c0dea;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  
+  }
+  
+  button:hover {
+    background-color: #7748f7;
+  }
 /* Footer Styles */
 footer {
-    background-color: #333;
+    background-color: #0f0e0e;
     color: #fff;
     padding: 20px 0;
     text-align: center;
